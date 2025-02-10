@@ -1,0 +1,158 @@
+/* Plant Disease Detection Styles */
+.plant-disease-container {
+    max-width: 800px;
+    margin: 50px auto;
+    font-family: 'Arial', sans-serif;
+}
+
+.plant-disease-card {
+    border: none;
+    border-radius: 15px;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+    background-color: #ffffff;
+}
+
+.plant-disease-card-header {
+    background-color: #28a745;
+    color: white;
+    font-size: 1.75rem;
+    text-align: center;
+    border-radius: 15px 15px 0 0;
+    padding: 20px;
+    font-weight: bold;
+}
+
+.plant-disease-card-body {
+    padding: 30px;
+}
+
+.plant-disease-btn-primary {
+    background-color: #28a745;
+    border: none;
+    font-size: 1.50rem;
+    padding: 10px 20px;
+    transition: background-color 0.3s ease;
+    color: white;
+    border-radius: 10px;
+    cursor: pointer;
+}
+
+.plant-disease-btn-primary:hover {
+    background-color: #218838;
+}
+
+.plant-disease-form-control {
+    border-radius: 10px;
+    padding: 10px;
+    border: 1px solid #ced4da;
+    width: 100%;
+}
+
+.plant-disease-form-control:focus {
+    border-color: #28a745;
+    box-shadow: 0 0 5px rgba(40, 167, 69, 0.5);
+}
+
+.plant-disease-result-section {
+    margin-top: 30px;
+}
+
+.plant-disease-alert {
+    border-radius: 10px;
+    padding: 15px;
+    font-size: 1.5rem;
+    background-color: #e9f5ff;
+    border: 1px solid #b3d7ff;
+    color: #004085;
+}
+
+.plant-disease-treatment-section {
+    margin-top: 30px;
+}
+
+.plant-disease-treatment-section h5 {
+    color: #28a745;
+    font-weight: bold;
+    margin-top: 20px;
+}
+
+.plant-disease-treatment-section ul {
+    list-style-type: none;
+    padding-left: 0;
+}
+
+.plant-disease-treatment-section ul li {
+    background-color: #f1f1f1;
+    margin: 5px 0;
+    padding: 10px;
+    border-radius: 5px;
+    font-size: 1.25rem;
+}
+
+.plant-disease-feedback-section {
+    margin-top: 30px;
+}
+
+.plant-disease-feedback-section h4 {
+    color: #28a745;
+    font-weight: bold;
+}
+
+.plant-disease-feedback-section select {
+    margin-top: 10px;
+}
+
+.plant-disease-feedback-section button {
+    margin-top: 15px;
+}
+
+.plant-disease-drop-zone {
+    border: 2px dashed #28a745;
+    padding: 30px;
+    text-align: center;
+    cursor: pointer;
+    color: #28a745;
+    margin-bottom: 20px;
+    border-radius: 10px;
+    transition: background-color 0.3s ease;
+}
+
+.plant-disease-drop-zone.dragover {
+    background-color: #e3f2fd;
+}
+
+.plant-disease-file-input {
+    display: none;
+}
+
+#plant-disease-preview {
+    max-width: 100px;
+    display: none;
+    margin-top: 10px;
+    border-radius: 5px;
+}
+
+#plant-disease-fileName {
+    font-size: 1.25rem;
+    color: #28a745;
+    font-weight: bold;
+}
+
+/* Responsive Design */
+@media (max-width: 768px) {
+    .plant-disease-container {
+        margin-top: 20px;
+    }
+
+    .plant-disease-card-header {
+        font-size: 1.5rem;
+    }
+
+    .plant-disease-card-body {
+        padding: 20px;
+    }
+
+    .plant-disease-btn-primary {
+        width: 100%;
+    }
+}

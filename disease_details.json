@@ -1,0 +1,320 @@
+{
+    "0": {
+      "disease": "Apple___Apple_scab",
+      "conventional_treatment": ["Use fungicides like myclobutanil", "Spray sulfur-based solutions", "Use copper-based sprays"],
+      "biological_treatment": ["Use Bacillus subtilis as a biocontrol agent", "Spray Trichoderma-based biofungicides"],
+      "cultural_treatment": ["Apply compost tea to boost plant immunity", "Use neem oil as a natural fungicide", "Improve soil health with organic mulch"],
+      "symptoms": ["Olive-green to black spots on leaves", "Cracked or distorted fruit"],
+      "cause_of_spread": ["Wind", "Rain"],
+      "prevention": ["Remove fallen leaves", "Prune trees for better air flow"]
+    },
+    "1": {
+      "disease": "Apple___Black_rot",
+      "conventional_treatment": ["Use fungicides like captan", "Spray copper-based solutions"],
+      "biological_treatment": ["Apply Trichoderma harzianum for fungal control", "Use Pseudomonas fluorescens to suppress pathogens"],
+      "cultural_treatment": ["Apply Bordeaux mixture (lime and copper sulfate)", "Encourage beneficial fungi by adding compost", "Use organic sulfur spray"],
+      "symptoms": ["Brown spots on leaves", "Fruit rots with circular rings"],
+      "cause_of_spread": ["Wind", "Rain", "Infected plant parts"],
+      "prevention": ["Remove infected fruit", "Cut infected branches"]
+    },
+    "2": {
+      "disease": "Apple___Cedar_apple_rust",
+      "conventional_treatment": ["Use fungicides like myclobutanil", "Spray triadimefon"],
+      "biological_treatment": ["Introduce rust-resistant apple varieties", "Use biofungicides containing Ampelomyces quisqualis"],
+      "cultural_treatment": ["Use garlic spray as a natural antifungal", "Encourage biodiversity to reduce fungal spores", "Improve tree health with organic fertilizers"],
+      "symptoms": ["Yellow-orange spots on leaves", "Galls on cedar trees"],
+      "cause_of_spread": ["Wind"],
+      "prevention": ["Remove nearby cedar trees", "Spray fungicides early in the season"]
+    },
+    "3": {
+      "disease": "Apple___healthy",
+      "treatment": [],
+      "symptoms": [],
+      "cause_of_spread": [],
+      "prevention": []
+    },
+    "4": {
+      "disease": "Blueberry___healthy",
+      "treatment": [],
+      "symptoms": [],
+      "cause_of_spread": [],
+      "prevention": []
+    },
+    "5": {
+      "disease": "Cherry_(including_sour)_Powdery_mildew",
+      "conventional_treatment": ["Use sulfur-based sprays", "Spray potassium bicarbonate"],
+      "biological_treatment": ["Apply beneficial fungi like Trichoderma spp.", "Use biofungicides containing Bacillus subtilis"],
+      "cultural_treatment": ["Spray a mixture of milk and water (1:9 ratio)", "Use baking soda solution to prevent fungal growth", "Encourage ladybugs, which feed on mildew spores"],
+      "symptoms": ["White powdery spots on leaves", "Leaves and fruits look stunted"],
+      "cause_of_spread": ["Wind"],
+      "prevention": ["Prune trees for air flow", "Avoid watering from above"]
+    },
+    "6": {
+      "disease": "Cherry_(including_sour)_healthy",
+      "treatment": [],
+      "symptoms": [],
+      "cause_of_spread": [],
+      "prevention": []
+    },
+    "7": {
+      "disease": "Corn_(maize)_Cercospora_leaf_spot Gray_leaf_spot",
+      "conventional_treatment": ["Use fungicides like azoxystrobin", "Spray chlorothalonil"],
+      "biological_treatment": ["Use Trichoderma spp. as a biofungicide", "Introduce Bacillus amyloliquefaciens for disease suppression"],
+      "cultural_treatment": ["Plant disease-resistant corn varieties", "Use compost tea to strengthen plant immunity", "Encourage natural predators like ladybugs"],
+      "symptoms": ["Grayish-tan spots on leaves", "Less yield"],
+      "cause_of_spread": ["Wind", "Rain"],
+      "prevention": ["Rotate crops", "Use resistant varieties"]
+    },
+    "8": {
+      "disease": "Corn_(maize)Common_rust",
+      "conventional_treatment": ["Use fungicides like propiconazole", "Spray triazole-based solutions"],
+      "biological_treatment": ["Apply biofungicides containing Streptomyces spp.", "Use beneficial bacteria like Pseudomonas fluorescens"],
+      "cultural_treatment": ["Apply a milk spray to suppress rust spores", "Use fish emulsion as an organic foliar feed", "Encourage soil health with green manure"],
+      "symptoms": ["Rust-colored spots on leaves", "Leaves turn yellow"],
+      "cause_of_spread": ["Wind"],
+      "prevention": ["Plant resistant hybrids", "Plant early in the season"]
+    },
+    "9": {
+      "disease": "Corn_(maize)_Northern_Leaf_Blight",
+      "conventional_treatment": ["Apply fungicides like propiconazole", "Use mancozeb-based treatments"],
+      "biological_treatment": ["Apply Bacillus subtilis to reduce fungal spread", "Use Trichoderma harzianum to suppress infection"],
+      "cultural_treatment": ["Rotate crops to break disease cycle", "Bury infected plant debris in soil", "Ensure proper plant spacing for airflow"],
+      "symptoms": ["Long, gray-green spots on leaves", "Leaves die early"],
+      "cause_of_spread": ["Wind", "Rain"],
+      "prevention": ["Use disease-resistant corn varieties", "Monitor crops regularly for early detection"]
+    },
+    "10": {
+      "disease": "Corn_(maize)_healthy",
+      "treatment": [],
+      "symptoms": [],
+      "cause_of_spread": [],
+      "prevention": []
+    },
+    "11": {
+      "disease": "Grape___Black_rot",
+      "conventional_treatment": ["Use fungicides like mancozeb", "Spray copper-based solutions"],
+      "biological_treatment": ["Use Trichoderma-based biofungicides", "Introduce Bacillus subtilis for disease control"],
+      "cultural_treatment": ["Apply diluted apple cider vinegar as a foliar spray", "Encourage mycorrhizal fungi for soil health", "Use organic compost to boost plant resilience"],
+      "symptoms": ["Brown spots on leaves", "Fruit rots with black spots"],
+      "cause_of_spread": ["Rain", "Infected plant parts"],
+      "prevention": ["Remove dried fruit", "Prune for air flow"]
+    },
+    "12": {
+      "disease": "Grape__Esca(Black_Measles)",
+      "conventional_treatment": ["No chemical treatment", "Prune and clean infected vines"],
+      "biological_treatment": ["Introduce beneficial bacteria like Pseudomonas spp.", "Use Trichoderma spp. to protect vine roots"],
+      "cultural_treatment": ["Apply garlic or neem oil spray", "Use cinnamon oil as a natural antifungal", "Improve soil drainage to reduce fungal infections"],
+      "symptoms": ["Leaves with tiger-like stripes", "Black spots on fruit"],
+      "cause_of_spread": ["Soil", "Dirty pruning tools"],
+      "prevention": ["Clean pruning tools", "Remove infected vines"]
+    },
+    "13": {
+      "disease": "Grape__Leaf_blight(Isariopsis_Leaf_Spot)",
+      "conventional_treatment": ["Apply copper-based fungicides", "Use mancozeb or chlorothalonil sprays"],
+      "biological_treatment": ["Apply Trichoderma harzianum to suppress fungal growth", "Use Bacillus subtilis-based biofungicides"],
+      "cultural_treatment": ["Prune for better air circulation", "Avoid overhead watering", "Remove and destroy infected leaves"],
+      "symptoms": ["Brown spots on leaves", "Leaves fall off"],
+      "cause_of_spread": ["Wind", "Rain"],
+      "prevention": ["Ensure proper vineyard sanitation", "Use resistant grape varieties"]
+    },
+    "14": {
+      "disease": "Grape___healthy",
+      "treatment": [],
+      "symptoms": [],
+      "cause_of_spread": [],
+      "prevention": []
+    },
+    "15": {
+      "disease": "Orange__Haunglongbing(Citrus_greening)",
+      "conventional_treatment": ["Spray insecticides to kill psyllids", "Use antibiotics like streptomycin"],
+      "biological_treatment": ["Use endophytic bacteria to suppress the disease", "Introduce parasitoid wasps to control psyllids"],
+      "cultural_treatment": ["Use neem oil to repel psyllids", "Encourage predatory insects like ladybugs", "Apply compost tea to improve tree resilience"],
+      "symptoms": ["Leaves turn yellow", "Fruit looks misshapen"],
+      "cause_of_spread": ["Insects (Asian citrus psyllid)"],
+      "prevention": ["Control psyllid insects", "Remove infected trees"]
+    },
+    "16": {
+      "disease": "Peach___Bacterial_spot",
+     "conventional_treatment": ["Spray copper-based solutions", "Use streptomycin"],
+      "biological_treatment": ["Apply beneficial bacteria like Bacillus subtilis", "Use biofungicides containing Pseudomonas spp."],
+      "cultural_treatment": ["Apply a baking soda spray", "Encourage natural enemies of pests", "Use wood ash to enhance soil health"],
+      "symptoms": ["Dark spots on leaves and fruit", "Fruit cracks"],
+      "cause_of_spread": ["Rain", "Wind"],
+      "prevention": ["Plant resistant varieties", "Avoid watering from above"]
+    },
+    "17": {
+      "disease": "Peach___healthy",
+      "treatment": [],
+      "symptoms": [],
+      "cause_of_spread": [],
+      "prevention": []
+    },
+    "18": {
+      "disease": "Pepper,bell__Bacterial_spot",
+      "conventional_treatment": ["Apply copper-based bactericides", "Use streptomycin sprays"],
+      "biological_treatment": ["Introduce Bacillus subtilis to suppress bacteria", "Use Pseudomonas fluorescens as a biocontrol agent"],
+      "cultural_treatment": ["Implement crop rotation with non-host plants", "Avoid overhead irrigation to reduce leaf wetness", "Remove and destroy infected plant debris"],
+      "symptoms": ["Water-soaked spots on leaves", "Fruit cracks"],
+      "cause_of_spread": ["Rain", "Wind", "Infected seeds"],
+      "prevention": ["Use healthy seeds", "Avoid watering from above"]
+    },
+    "19": {
+      "disease": "Pepper,bell__healthy",
+      "treatment": [],
+      "symptoms": [],
+      "cause_of_spread": [],
+      "prevention": []
+    },
+    "20": {
+      "disease": "Potato___Early_blight",
+      "conventional_treatment": ["Apply fungicides like chlorothalonil", "Use mancozeb sprays"],
+      "biological_treatment": ["Use Trichoderma harzianum to inhibit pathogen growth", "Apply Bacillus subtilis-based biofungicides"],
+      "cultural_treatment": ["Practice crop rotation with non-host crops", "Remove and destroy infected plant residues", "Ensure proper hilling to protect tubers"],
+      "symptoms": ["Circular rings on leaves", "Leaves turn yellow"],
+      "cause_of_spread": ["Wind", "Rain", "Infected plant parts"],
+      "prevention": ["Rotate crops", "Remove infected plant parts"]
+    },
+    "21": {
+      "disease": "Potato___Late_blight",
+      "conventional_treatment": ["Apply fungicides like metalaxyl", "Use phosphonate-based treatments"],
+      "biological_treatment": ["Introduce Pseudomonas fluorescens to suppress pathogen", "Use Trichoderma viride as a biocontrol agent"],
+      "cultural_treatment": ["Plant certified disease-free tubers", "Remove volunteer potato plants", "Avoid planting in low-lying, wet areas"],
+      "symptoms": ["Dark spots on leaves", "White mold under leaves"],
+      "cause_of_spread": ["Wind", "Rain"],
+      "prevention": ["Plant resistant varieties", "Avoid watering from above"]
+    },
+    "22": {
+      "disease": "Potato___healthy",
+      "treatment": [],
+      "symptoms": [],
+      "cause_of_spread": [],
+      "prevention": []
+    },
+    "23": {
+      "disease": "Raspberry___healthy",
+      "treatment": [],
+      "symptoms": [],
+      "cause_of_spread": [],
+      "prevention": []
+    },
+    "24": {
+      "disease": "Soybean___healthy",
+      "treatment": [],
+      "symptoms": [],
+      "cause_of_spread": [],
+      "prevention": []
+    },
+    "25": {
+      "disease": "Squash___Powdery_mildew",
+      "conventional_treatment": ["Apply sulfur-based fungicides", "Use potassium bicarbonate sprays"],
+      "biological_treatment": ["Use Bacillus subtilis-based biofungicides", "Apply Trichoderma harzianum to foliage"],
+      "cultural_treatment": ["Plant resistant squash varieties", "Remove and destroy infected leaves", "Ensure proper spacing for air circulation"],
+      "symptoms": ["White powdery spots on leaves", "Stunted growth"],
+      "cause_of_spread": ["Wind"],
+      "prevention": ["Prune for air flow", "Avoid watering from above"]
+    },
+    "26": {
+      "disease": "Strawberry___Leaf_scorch",
+      "conventional_treatment": ["Apply fungicides like myclobutanil", "Use captan sprays"],
+      "biological_treatment": ["Introduce Bacillus subtilis to suppress pathogen", "Use Trichoderma viride as a biocontrol agent"],
+      "cultural_treatment": ["Remove and destroy infected leaves", "Avoid overhead irrigation", "Ensure proper plant spacing"],
+      "symptoms": ["Purple spots on leaves", "Leaves curl"],
+      "cause_of_spread": ["Wind", "Rain"],
+      "prevention": ["Remove infected leaves", "Avoid watering from above"]
+    },
+    "27": {
+      "disease": "Strawberry___healthy",
+      "treatment": [],
+      "symptoms": [],
+      "cause_of_spread": [],
+      "prevention": []
+    },
+    "28": {
+      "disease": "Tomato___Bacterial_spot",
+      "conventional_treatment": ["Apply copper-based bactericides", "Use streptomycin sprays"],
+      "biological_treatment": ["Use Bacillus subtilis-based biofungicides", "Introduce Pseudomonas fluorescens to suppress bacteria"],
+      "cultural_treatment": ["Implement crop rotation with non-host plants", "Avoid overhead irrigation", "Remove and destroy infected plant debris"],
+      "symptoms": ["Water-soaked spots on leaves", "Fruit cracks"],
+      "cause_of_spread": ["Rain", "Wind", "Infected seeds"],
+      "prevention": ["Use healthy seeds", "Avoid watering from above"]
+    },
+    "29": {
+      "disease": "Tomato___Early_blight",
+      "conventional_treatment": ["Apply fungicides like chlorothalonil", "Use mancozeb sprays"],
+      "biological_treatment": ["Use Trichoderma harzianum to inhibit pathogen growth", "Apply Bacillus subtilis-based biofungicides"],
+      "cultural_treatment": ["Practice crop rotation with non-host crops", "Remove and destroy infected plant residues", "Ensure proper staking to keep foliage dry"],
+      "symptoms": ["Circular rings on leaves", "Leaves turn yellow"],
+      "cause_of_spread": ["Wind", "Rain", "Infected plant parts"],
+      "prevention": ["Rotate crops", "Remove infected plant parts"]
+    },
+    "30": {
+      "disease": "Tomato___Late_blight",
+      "conventional_treatment": ["Apply fungicides like metalaxyl", "Use phosphonate-based treatments"],
+      "biological_treatment": ["Introduce Pseudomonas fluorescens to suppress pathogen", "Use Trichoderma viride as a biocontrol agent"],
+      "cultural_treatment": ["Plant certified disease-free seedlings", "Remove volunteer tomato plants", "Avoid planting in low-lying, wet areas"],
+      "symptoms": ["Dark spots on leaves", "White mold under leaves"],
+      "cause_of_spread": ["Wind", "Rain"],
+      "prevention": ["Plant resistant varieties", "Avoid watering from above"]
+    },
+    "31": {
+      "disease": "Tomato___Leaf_Mold",
+      "conventional_treatment": ["Apply fungicides like chlorothalonil", "Use copper-based sprays"],
+      "biological_treatment": ["Use Bacillus subtilis-based biofungicides", "Apply Trichoderma harzianum to foliage"],
+      "cultural_treatment": ["Ensure proper greenhouse ventilation", "Remove and destroy infected leaves", "Avoid overhead watering"],
+      "symptoms": ["Yellow spots on leaves", "White mold under leaves"],
+      "cause_of_spread": ["Wind", "Rain"],
+      "prevention": ["Prune for air flow", "Avoid watering from above"]
+    },
+    "32": {
+      "disease": "Tomato___Septoria_leaf_spot",
+      "conventional_treatment": ["Apply fungicides like mancozeb or chlorothalonil", "Use copper-based sprays"],
+      "biological_treatment": ["Introduce Bacillus subtilis as a biocontrol agent", "Apply Trichoderma harzianum to suppress the fungus"],
+      "cultural_treatment": ["Remove and destroy infected leaves", "Avoid overhead irrigation", "Use mulch to reduce soil splash"],
+      "symptoms": ["Small, circular spots on leaves", "Leaves turn yellow"],
+      "cause_of_spread": ["Wind", "Rain", "Infected plant parts"],
+      "prevention": ["Rotate crops", "Remove infected plant parts"]
+    },
+    "33": {
+      "disease": "Tomato___Spider_mites Two-spotted_spider_mite",
+      "conventional_treatment": ["Apply miticides like abamectin", "Use neem oil-based sprays"],
+      "biological_treatment": ["Introduce predatory mites (Phytoseiulus persimilis)", "Use ladybugs to feed on mites"],
+      "cultural_treatment": ["Increase humidity to deter mites", "Wash leaves with water to remove mites", "Remove heavily infested plants"],
+      "symptoms": ["Yellow spots on leaves", "Fine webs on plants"],
+      "cause_of_spread": ["Wind", "Movement of infected plants"],
+      "prevention": ["Keep plants healthy", "Use predatory mites"]
+    },
+    "34": {
+      "disease": "Tomato___Target_Spot",
+      "conventional_treatment": ["Apply fungicides like chlorothalonil", "Use mancozeb-based treatments"],
+      "biological_treatment": ["Introduce Bacillus subtilis to suppress pathogen", "Apply Trichoderma harzianum for control"],
+      "cultural_treatment": ["Remove infected plant debris", "Practice crop rotation", "Ensure good air circulation"],
+      "symptoms": ["Brown spots with rings", "Leaves fall off"],
+      "cause_of_spread": ["Wind", "Rain"],
+      "prevention": ["Rotate crops", "Remove infected plant parts"]
+    },
+    "35": {
+      "disease": "Tomato___Tomato_Yellow_Leaf_Curl_Virus",
+      "conventional_treatment": ["Apply insecticides like imidacloprid to control whiteflies", "Use virus-resistant tomato varieties"],
+      "biological_treatment": ["Introduce natural enemies like Encarsia formosa", "Use neem oil to deter whiteflies"],
+      "cultural_treatment": ["Remove infected plants immediately", "Use reflective mulch to repel whiteflies", "Install physical barriers like row covers"],
+      "symptoms": ["Leaves turn yellow and curl", "Stunted growth"],
+      "cause_of_spread": ["Insects (whiteflies)"],
+      "prevention": ["Control whiteflies", "Use resistant varieties"]
+    },
+    "36": {
+      "disease": "Tomato___Tomato_mosaic_virus",
+      "conventional_treatment": ["Use resistant tomato varieties", "Apply antiviral plant extracts like neem or garlic spray"],
+      "biological_treatment": ["Use beneficial microbes like Bacillus spp. to enhance plant immunity", "Apply compost teas to strengthen plants"],
+      "cultural_treatment": ["Sanitize tools between handling plants", "Remove and destroy infected plants", "Avoid handling plants when wet"],
+      "symptoms": ["Leaves look mottled", "Stunted growth"],
+      "cause_of_spread": ["Dirty tools", "Infected seeds"],
+      "prevention": ["Clean tools", "Use healthy seeds"]
+    },
+    "37": {
+      "disease": "Tomato___healthy",
+      "treatment": [],
+      "symptoms": [],
+      "cause_of_spread": [],
+      "prevention": []
+    }
+  }
