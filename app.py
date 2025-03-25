@@ -139,4 +139,4 @@ def submit_feedback():
     return jsonify({"status": "success", "message": "Feedback submitted successfully!"})
 
 if __name__ == "__main__":
-    app.run(debug=os.getenv("FLASK_DEBUG", "False") == "True")
+    app.run(host="0.0.0.0", port=7860, debug=os.getenv("FLASK_DEBUG", "False") == "True")
